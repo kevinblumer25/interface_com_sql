@@ -6,4 +6,4 @@ Este projeto utiliza o banco **AdventureWorksLT2022**, disponível no site da Mi
 Após baixar, restaure o banco no seu SQL Server local.
 
 ### Conexão
-Edite o arquivo `src/consultas.py` e configure a string de conexão:
+Edite no arquivo "src/ functions.py" na função "conectar"
